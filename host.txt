@@ -1,0 +1,18 @@
+# Custom Local Domain Name for Nextcloud Instances
+172.18.121.3 nextcloud-server
+
+
+# Custom Local Domain Name for MySQL Instances
+172.18.121.4 mysql-server
+
+# Custom Local Domain Name for Redis Instances
+172.18.121.2 redis-server
+
+# Custom Local Domain Name for Proxy Server Instances (NGINX or HAPROXY)
+xxx.xxx.xxx.xxx proxy-server
+
+# Custom Local Domain Name for MYSQL Router Server Instances
+xxx.xxx.xxx.xxx mysql-router
+
+
+# End of Custom IP Address
